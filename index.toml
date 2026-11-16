@@ -1,0 +1,41 @@
+# Catálogo de mapas e mods do PRTS. Gerado pelo jogo (--build-index); não edite os hashes à mão.
+version = 1
+
+[[item]]
+id = "seed-20261114"
+name = "Seed 20261114"
+author = "PRTS (gerado)"
+version = "1.0.0"
+kind = "map"
+description = "Mapa gerado pela seed 20261114."
+path = "maps/seed-20261114"
+[item.files]
+"height.png" = "706d9bcf318cacc9edd3dcda8cbefce9750b15fcae306ae9694344212b108e26"
+"map.toml" = "410c49d7b2724ab19745c3c3ccff0cf6de024e9ddff877ecf04418b5eabc411c"
+"preview.png" = "a8fa93215d14e6486300d6bbea703382a87f368f53f04a9638630802abab842c"
+
+[[item]]
+id = "seed-4242"
+name = "Seed 4242"
+author = "PRTS (gerado)"
+version = "1.0.0"
+kind = "map"
+description = "Mapa gerado pela seed 4242."
+path = "maps/seed-4242"
+[item.files]
+"height.png" = "c20dcf8836eeb56fce5a6ea02e5e234217eae4b7e45ab5612cac92a9a2dbb838"
+"map.toml" = "9f52e24cd7859e90963ea6791f1ae295a40ad5c6448065138a4483b7efe77d22"
+"preview.png" = "b09a07745d80a42aab8d17d69bbbf8ec92c4c71be15a8b6daea1a93a385b4e5a"
+
+[[item]]
+id = "seed-7"
+name = "Seed 7"
+author = "PRTS (gerado)"
+version = "1.0.0"
+kind = "map"
+description = "Mapa gerado pela seed 7."
+path = "maps/seed-7"
+[item.files]
+"height.png" = "db07dc5ba962005d128b8e48232652d5b51a1c2cf76b8dd2165f4d7efc2c44b3"
+"map.toml" = "5f8b6b0780159104a2fa19117b3d99cac59a197cd6fb174e8c10b30da85874ec"
+"preview.png" = "43adb2bac9a90d4a10a66418811136d5f1dbe36d8d641977dee463c3b37a1c5c"
